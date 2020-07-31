@@ -1,8 +1,4 @@
-if(navigator.platform === "Linux armv7l"){
-	document.getElementById('out').style.padding = "px 0px 200px 50px";
-	document.getElementById('elmout').style.padding = "20px 0px 0px 5px";
-}
-  
+
 var C = document.getElementById('C');
 var Cs = document.getElementById('C#');
 var D = document.getElementById('D');
